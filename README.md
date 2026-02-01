@@ -2,6 +2,8 @@
 
 A comprehensive data analysis project focused on understanding and predicting student academic performance using machine learning and visualization techniques. This project explores various factors like gender, parental education, lunch type, and test preparation in relation to student scores.
 
+---
+
 📌 Table of Contents
 
 - Project Overview
@@ -14,6 +16,8 @@ A comprehensive data analysis project focused on understanding and predicting st
 - Visualizations
 - License
 
+---
+
 📖 Project Overview
 
 This project analyzes the Student Performance Dataset from Kaggle/UCI to:
@@ -21,6 +25,8 @@ This project analyzes the Student Performance Dataset from Kaggle/UCI to:
 - Explore how socio-economic factors impact performance
 - Predict student scores using regression and classification models
 - Visualize insights to support education-based decision-making
+
+---
 
 ✅ Features
 
@@ -33,6 +39,8 @@ This project analyzes the Student Performance Dataset from Kaggle/UCI to:
 - Data Cleaning & Preprocessing
 - Performance Evaluation: Accuracy, MAE, RMSE
 - Report Generation (Jupyter Notebook / PDF)
+
+---
 
 📂 Dataset
 
@@ -49,6 +57,8 @@ This project analyzes the Student Performance Dataset from Kaggle/UCI to:
   - Reading score
   - Writing score
 
+---
+
 🧰 Tech Stack
 
 - Language: Python 3.x
@@ -57,6 +67,8 @@ This project analyzes the Student Performance Dataset from Kaggle/UCI to:
   - Matplotlib, Seaborn
   - Scikit-learn
   - Jupyter Notebook
+
+---
 
 💻 Installation
 
@@ -86,6 +98,8 @@ mathematica
 Copy
 Edit
 
+---
+
 🚀 Usage
 
 1. Launch Jupyter Notebook:
@@ -103,6 +117,8 @@ Edit
    - ML models
    - Predictions and evaluation
 
+---
+
 🗂️ Project Structure
 
 Student_Performance_Analysis/
@@ -118,6 +134,8 @@ csharp
 Copy
 Edit
 
+---
+
 📊 Visualizations
 
 Some of the key insights generated include:
@@ -129,6 +147,8 @@ Some of the key insights generated include:
 
 ![Sample Chart](assets/sample_score_plot.png)
 
+---
+
 🔮 Model Evaluation
 
 | Model             | MAE   | RMSE  | R² Score |
@@ -136,9 +156,13 @@ Some of the key insights generated include:
 | Linear Regression| 5.2   | 6.3   | 0.89     |
 | Random Forest    | 4.1   | 5.5   | 0.92     |
 
+---
+
 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
 
 🙋‍♂️ Author
 
